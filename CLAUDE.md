@@ -16,6 +16,8 @@ This is a multi-book series of literary science fiction exploring how gravity af
 - **AI as Neutral Mirror**: AIs reflect human assumptions back at us without judgment
 - **Love Despite Incomprehension**: Relationships persisting even when understanding fails
 - **The Beautiful Failure**: Finding meaning in inevitable drift apart
+- **Optimistic Nihilism**: The universe has no inherent meaning, which frees us to create our own
+- **We Are the Universe Thinking**: Each consciousness format is the cosmos experiencing itself differently
 
 ## World-Specific Consciousness Traits
 

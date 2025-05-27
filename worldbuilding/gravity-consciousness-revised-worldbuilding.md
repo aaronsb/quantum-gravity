@@ -8,6 +8,12 @@ Gravity subtly influences quantum processes in neural tissue, creating distinct 
 
 "Alien" simply means "other" or "from elsewhere." By 2175, Earth requires "alien registration" for Mars visitors. The Nowhere Generation are stateless aliens between all worlds. When Book 3's non-human intelligences arrive, they're less alien to Earth than Proxima humans are. The series reveals that "alien" is the alien concept - all consciousness arises from the same universal rules, whether human, AI, or otherwise. We become alien to each other not through distance but through divergence.
 
+## Consciousness as Universe Experiencing Itself
+
+Each human population represents the cosmos developing awareness under different physical conditions. These aren't philosophical schools or personality types - they're subtle variations in how neural processes respond to gravity. 
+
+Important: The labels we use (Earth's "chaos," Mars's "absence-awareness") are human interpretations, not objective truths. A Mars human doesn't think "I perceive absence" - they simply think, and Earth humans interpret the difference as absence-awareness. The universe isn't creating themed consciousness types; it's creating consciousness that responds to local conditions, and humans impose meaning on the variations.
+
 ## The Science (Simplified)
 
 - Consciousness emerges from quantum collapses in neural microtubules
