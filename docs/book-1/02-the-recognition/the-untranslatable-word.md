@@ -1,8 +1,8 @@
 # The Untranslatable Word
 
-The poetry reading was held at New Shanghai University, Earth campus, in the kind of sterile auditorium where dreams went to get tenure. Dr. Yuki Tanaka from Mars was the featured speaker, presenting her collection "Red Silence"—poems that had reportedly crashed three translation algorithms and sent one linguistics professor to therapy.
+The poetry reading was held at New Shanghai University, Earth campus, in the kind of sterile auditorium where dreams went to get tenure. Dr. Keiko Tanaka from Mars was the featured speaker, presenting her collection "Red Silence"—poems that had reportedly crashed three translation algorithms and sent one linguistics professor to therapy.
 
-Mei Chen sat in the third row, her mother Liu beside her. Now sixteen, Mei moved with Mars rhythms that three years of Earth doctors couldn't cure. She'd wanted to come. Needed to come. Had seen the poster and felt something crack open in her chest—a recognition of absence she couldn't name.
+Mei Chen sat in the third row, her mother Liu beside her. Now sixteen, Mei moved with Mars rhythms that eleven years of Earth doctors couldn't cure—she'd been five when they returned from Mars, old enough for the red planet to have shaped her neural pathways permanently. She'd wanted to come. Needed to come. Had seen the poster and felt something crack open in her chest—a recognition of absence she couldn't name.
 
 Liu had agreed reluctantly. The counselor said exposure therapy might help—surround Mei with Earth stimuli until her neurons remembered their birthright. But watching Mars poetry seemed like the opposite of therapy. Like feeding the drift instead of fighting it.
 
@@ -14,7 +14,7 @@ Someone laughed nervously. Mars wasn't a language. Mars was a place.
 
 "I know what you're thinking," Dr. Tanaka continued. "We speak the same languages on Mars. Use the same words. But words are just vessels. What we pour into them..." She gestured at the space between her hands. "That changes with gravity."
 
-She'd been on Mars for fifteen years. Started as a geologist, studying ancient lakebeds. Ended as a poet, studying the absence where lakes had been. Her first collection, "Fossil Water," had won awards on Mars, confused critics on Earth. This was her first Earth reading tour—a test of whether art could translate across consciousness gaps.
+She'd been on Mars for twenty years. Started as a geologist, studying ancient lakebeds. Ended as a poet, studying the absence where lakes had been. Her first collection, "Fossil Water," had won awards on Mars, confused critics on Earth. This was her first Earth reading tour—a test of whether art could translate across consciousness gaps.
 
 Dr. Tanaka opened her book. The pages were mostly white space.
 

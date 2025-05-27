@@ -6,7 +6,7 @@ First: the emoji disappeared. Hearts and smiles that once punctuated every text,
 
 She sat in their Amsterdam apartment—her apartment now, though she still paid half-rent on his Luna studio out of principle or denial—scrolling through two years of message history. Watching their love decay in real-time data points.
 
-They'd met at a sustainable architecture conference in Singapore. Magnus presenting his thesis on lunar habitats, Sarah showcasing her vertical garden systems. He'd knocked over her coffee reaching for a brochure, spent the next hour helping rebuild her display. She'd fallen for his laugh first—Earth-bright and immediate. They'd moved to Amsterdam together eight months later, found the apartment with its perfect morning light and tiny balcony where her plants could thrive.
+They'd met at a sustainable architecture conference in Singapore three years ago. Magnus—tall, with his Nigerian mother's cheekbones and his Dutch father's pale eyes—presenting his thesis on 'patient buildings' that evolved with their inhabitants. Sarah showcasing her vertical garden systems for Terraform Solutions. He'd knocked over her coffee reaching for a brochure, spent the next hour helping rebuild her display, his Dutch accent thickening with concentration. She'd fallen for his laugh first—Earth-bright and immediate. They'd moved to Amsterdam together eight months later, found the apartment with its perfect morning light and tiny balcony where her plants could thrive.
 
 The translation overlay had started as a joke. "TransLingua Premium: For Love Across Space!" Targeted ads that knew too much about her search history. Magnus had laughed when she'd subscribed. "We don't need that. Love is its own language."
 

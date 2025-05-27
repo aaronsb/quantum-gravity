@@ -1,6 +1,6 @@
 # 73.2%
 
-Sarah Okafor-Jensen had once believed in perfect understanding. Back when she and Magnus would spend entire weekends in their Amsterdam apartment, talking through the night about terraforming Mars and the ethics of consciousness modification. Back when they could finish each other's sentences, before Luna's gravity began its slow work on his neural pathways. She'd been a project manager at Terraform Solutions then, coordinating sustainable habitat designs for the growing off-world colonies. Magnus had been her favorite consultant—the structural engineer who understood that buildings weren't just about surviving in low gravity, but about creating spaces where humans could thrive.
+Sarah Okafor-Jensen had once believed in perfect understanding. Back when she and Magnus would spend entire weekends in their Amsterdam apartment, talking through the night about buildings that could grow and change, about designing for centuries instead of decades. Back when they could finish each other's sentences, before Luna's gravity began its slow work on his neural pathways.
 
 Now she stared at the number on her screen. It hadn't changed in six months.
 
@@ -8,17 +8,17 @@ Now she stared at the number on her screen. It hadn't changed in six months.
 
 Every conversation with Magnus. Every message. Every "I love you" filtered through an algorithm that had stopped trying to be perfect.
 
-Her Amsterdam apartment bore the evidence of two lives trying to merge across 384,400 kilometers. Wedding dress hanging on the bedroom door—a sustainable fabric design from her friend Kaia's studio. Color swatches spread across the dining table: "Lunar Regolith" (too gray), "Earth Sky" (too presumptuous), "Orbital Sunset" (just right, maybe). Vendor contracts stacked by her laptop, each one more urgent than the last. The caterer needed final numbers. The venue wanted to know about gravity accommodations for off-world guests. Her mother kept forwarding articles about "Making Mixed-Gravity Marriages Work."
+Her Amsterdam apartment bore the evidence of two lives trying to merge across 384,400 kilometers. Wedding dress hanging on the bedroom door—a sustainable fabric design from her friend Kaia's studio. Color swatches spread across the dining table: "Lunar Regolith" (too gray), "Earth Sky" (too presumptuous), "Orbital Sunset" (just right, maybe). Vendor contracts stacked by her laptop, each one more urgent than the last. The caterer needed final numbers by Friday. The venue—that perfect canal-side place in Jordaan—wanted to know about dietary restrictions for off-world guests who couldn't process Earth-rich foods anymore. Her mother kept forwarding articles about "Making Mixed-Gravity Marriages Work" with helpful highlights and worried annotations.
 
 She scrolled through their chat history, watching the percentage drift:
 
-January 2118: 94.7%
-March 2118: 89.3%
-July 2118: 81.6%
-October 2118: 76.9%
-February 2119: 73.2%
-March 2119: 73.2%
-April 2119: 73.2%
+January 2105: 94.7%
+March 2105: 89.3%
+July 2105: 81.6%
+October 2105: 76.9%
+February 2106: 73.2%
+March 2106: 73.2%
+April 2106: 73.2%
 
 And there it stuck. Like a boat run aground on an invisible reef.
 

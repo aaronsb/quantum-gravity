@@ -1,6 +1,6 @@
 # Coffee on Luna
 
-Marcus Chen had been awake for thirty-seven hours when the Luna shuttle finally docked. The Hong Kong markets had crashed at 3 AM Earth-time, taking his firm's emerging tech portfolio with them. By dawn, he'd lost forty million dollars of other people's money. By noon, he'd booked the only remaining seat to Luna, where Kepler Mining Corp waited with a deal that could save everything.
+Marcus Chen had been awake for thirty-seven hours when the Luna shuttle finally docked. The Hong Kong markets had crashed at 3 AM Earth-time, taking his firm's emerging tech portfolio with them. He'd lost forty million dollars of other people's money in the span between his second and third coffee, watching numbers turn red on screens that never slept. Kepler Mining Corp waited on Luna with a deal that could save everything—if he could think clearly enough to close it.
 
 If he could think clearly enough to close it.
 
@@ -20,7 +20,7 @@ First sip.
 
 The flavor hit—rich, bitter, with notes of chocolate and earth. His tongue recognized every molecule. His brain catalogued each familiar sensation. But somewhere between taste and meaning, something shifted. The coffee became a question his mouth couldn't answer.
 
-He took another sip. Another. Chasing something absent.
+He took another sip, then another, chasing something that remained stubbornly absent from the perfect coffee.
 
 At the next table, two Luna natives shared breakfast in silence. Not awkward silence—Marcus knew that kind. This was architectural, built and inhabited. They looked at each other occasionally, long gazes that held entire conversations. One smiled. The other continued eating. The smile was still happening somehow, though the lips had moved on.
 
@@ -30,7 +30,7 @@ Marcus checked his phone. Fourteen messages from Earth in the hour since he'd la
 - His assistant with three urgent and two critical items
 - A meme from his brother
 
-The urgency felt like static. He tried to care about Thursday dinner and found the thought sliding away, drawn into Luna's patient gravity.
+The urgency felt thin, stretched like atmosphere between worlds. Thursday dinner with Janet became abstract—a plan made by someone who'd lived in Earth's demanding now.
 
 "How is?" The barista appeared at his elbow. When had she moved?
 
@@ -40,9 +40,9 @@ The urgency felt like static. He tried to care about Thursday dinner and found t
 
 Like what? But she was gone again, moving between tables with the unhurried purpose of tides.
 
-Marcus lifted the fresh cup. Still perfect. Still wrong. He thought about asking someone, but what would he say? The coffee tastes like coffee but means something else? 
+Marcus lifted the fresh cup, finding it still perfect in every measurable way and still fundamentally wrong. He thought about asking someone, but what would he say? The coffee tastes like coffee but means something else? 
 
-His phone buzzed. Janet again. *Miss you already! Can't wait to hear about the moon!*
+His phone buzzed with another message from Janet: *Miss you already! Can't wait to hear about the moon!*
 
 He started to type: *It's strange here. The coffee—*
 
@@ -80,7 +80,7 @@ When he finally left, the barista nodded. A greeting and farewell collapsed into
 
 Outside, Marcus walked the corridors of Luna Station, his Earth-quick stride gradually slowing. His phone stayed off. Thursday dinner became a concept from another life, urgent and critical things dissolved into the patient air.
 
-The coffee taste lingered. Not loneliness, he realized. Something else. Something that would take longer than a business trip to understand. Something that had already begun to change the shape of his thoughts, one sip at a time.
+The coffee taste lingered on his tongue, and he realized it wasn't loneliness he was tasting but something else entirely. Something that would take longer than a business trip to understand. Something that had already begun to change the shape of his thoughts, one sip at a time.
 
 He had three days on Luna. By the end, he'd need thirteen days. Then thirty.
 

@@ -1,8 +1,8 @@
 # Frequency
 
-Dev Patel called his sister on a Thursday. Two years since the dinner where he'd stopped making sense. Since he'd chosen Mars over MIT's PhD program, chosen red horizons over their shared Boston apartment, chosen absence over presence.
+Dev Patel called his sister on a Thursday, the Earth date meaningless to him now but everything to her. Two years since that family dinner where he'd stopped making sense.
 
-Priya had been running protein simulations for sixteen hours straight. Her advisor wanted results by Monday. The lab coffee had turned to acid in her stomach. When Dev's call came through, she almost declined—Mars conversations required energy she didn't have.
+Priya had been running protein simulations for sixteen hours straight. Her advisor at MIT wanted results by Monday. Her coffee had gone cold three times—she kept forgetting to drink it between calculations. When Dev's call came through, she almost declined—Mars conversations required energy she didn't have.
 
 But it was 3 AM Mars time. He was calling her in his middle of the night.
 
@@ -10,7 +10,7 @@ But it was 3 AM Mars time. He was calling her in his middle of the night.
 
 "Dev!" She minimized her lab report, minimized her resentment. "Holy shit, you actually called."
 
-Five years since he'd left. Two since he'd stopped making sense. Six months since their last real conversation, if you could call their mistranslated exchanges real.
+He'd been on Mars for five years now, choosing red horizons over MIT's doctorate program. Six months since their last real conversation, if you could call their mistranslated exchanges real.
 
 "I've been..." He paused. That pause she remembered. But longer now, architectural. "Thinking about waves."
 

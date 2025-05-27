@@ -2,13 +2,13 @@
 
 The Patel family dinner happened every Sunday at 6 PM Earth-standard. Even when Dev was on Mars. Especially when Dev was on Mars.
 
-Priya checked the connection quality for the third time. Twenty-minute delay each way to Mariner Valley. The family's AI mediator was already active, its interface showing four consciousness streams like rivers that no longer flowed at the same speed. She'd written a script to overlay timestamps on everyone's video feeds—her contribution to making the impossible possible. But the real work happened in the AI layer, where Earth-urgent family love got translated into something Dev's Mars-patience could receive. Mom had made samosas, Dev's favorite, as if he could smell them across 225 million kilometers. Dad had opinions about cricket that needed sharing. Dev had... distance.
+Priya checked the connection quality for the third time. Twenty-minute delay each way to Mariner Valley. The family's AI mediator was already active, its interface showing four video feeds offset by lightspeed lag. She'd written a script to overlay timestamps on everyone's video feeds—her contribution to making the impossible possible. But the real work happened in the AI layer, where Earth-urgent family love got translated into something Dev's Mars-patience could receive. Mom had made samosas, Dev's favorite, as if he could smell them across 225 million kilometers. Dad had opinions about cricket that needed sharing. Dev had... distance.
 
-Three years since he'd taken the Mangalyaan Industries position. "Mineralogy specialist," he'd said, eyes bright with Earth dreams about Mars futures. Now he studied rocks that had never known rain, mapping the history of a planet that failed to live.
+Three years had passed since Dev had taken the position at Mariner Valley as a mineralogist, his eyes bright with Earth dreams about Mars futures. Now he studied rocks that had never known rain, mapping the history of a planet that failed to live.
 
 "Can everyone see?" Mom adjusted her screen with the particular fussing of a mother who'd lost a son to space but refused to admit it. The kitchen behind her looked exactly as it had when Dev left. Same yellow walls. Same hanging plants. Same denial.
 
-Dad nodded from his study, surrounded by the tax documents he brought home even on Sundays. Earth work for Earth clients who needed Earth-speed solutions. Priya waved from her MIT dorm room, where half-finished code sprawled across three monitors—her attempt to solve time delay with algorithms, as if love could be debugged.
+Dad nodded from his study, surrounded by the tax documents he brought home even on Sundays. Earth work for Earth clients who needed Earth-speed solutions. Priya waved from her MIT dorm room, where biochemistry textbooks competed for space with musical scores—her dual major spreading across every surface, equations and compositions equally demanding her time.
 
 Dev's face pixelated into focus from Mars, already mid-response to something they'd said twenty minutes ago. The AI showed his current state in a sidebar—heart rate: 52 bpm, attention: diffuse, consciousness: 67% Mars-integrated. The habitat behind him was all functional surfaces and recycled air aesthetics. He'd lost weight. Or maybe gravity had lost him.
 
@@ -92,11 +92,11 @@ After he disconnected, the Earth-bound Patels sat with their screens and plates.
 
 "Lonely," Dad said.
 
-They were all right. All wrong. All missing the point, which was drifting somewhere between Earth and Mars, in the space where their son and brother was becoming someone they loved but couldn't quite recognize.
+They were all right and all wrong, missing the point that drifted somewhere between Earth and Mars in the space where their son and brother was becoming someone they loved but couldn't quite recognize.
 
 "I'll message him," Priya decided. "Later. When he's... when it's morning there."
 
-But later never came. Or came too soon. Or came exactly when it should but meant something different by the time it arrived.
+But later never came—or perhaps it came too soon, or arrived exactly when it should but meant something different by the time it reached them.
 
 That night, Priya worked on her code. A new translation algorithm. Not for words but for time itself. A way to braid conversations across light-speed delays. To be together despite the fundamental impossibility of together.
 

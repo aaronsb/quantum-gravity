@@ -2,11 +2,11 @@
 
 Liu Chen noticed it first on a Tuesday, though she'd been not-noticing for months.
 
-The kitchen timer buzzed—chicken needed turning. Liu flipped each piece with practiced efficiency, the cast iron spattering oil across her worn apron. Same dinner she'd made every Tuesday since returning from Mars. Routine as gravity, as necessary as air. As if normal family dinners could erase the fact that they'd dragged Mei across the solar system like misplaced luggage.
+The kitchen timer buzzed—chicken needed turning. Liu flipped each piece with practiced efficiency, the cast iron spattering oil across her worn apron. Same dinner she'd made every Tuesday since returning from Mars, back when they thought Singapore would feel like home again. Before the restaurant. Before accepting that some returns were harder than departures. Routine as gravity, as necessary as air. As if normal family dinners could erase the fact that they'd dragged Mei across the solar system like misplaced luggage.
 
 "How was school?" Liu asked, chopping vegetables with Earth-quick efficiency—carrots, onions, peppers in rapid succession. The kitchen smelled like home was supposed to smell. Like the home they'd tried to recreate in a Valles Marineris habitat, where vegetables grew in hydroponic towers and meat was cultured in labs.
 
-Mei stood in the doorway. Seven years old, all knees and elbows in her Earth clothes that never fit quite right. Born on Mars but raised on Earth since she was two. Supposed to be readjusting fine, the doctors said. Children adapt. Children forget.
+Mei stood in the doorway. Seven years old, all knees and elbows in her Earth clothes that never fit quite right. Born on Mars but raised on Earth since she was five. Supposed to be readjusting fine, the doctors said. Children adapt. Children forget.
 
 Children remember everything in their bones.
 

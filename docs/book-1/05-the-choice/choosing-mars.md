@@ -2,13 +2,13 @@
 
 Priya Patel had been living between frequencies since she was twelve.
 
-That was when her parents first sent her to the Luna Conservatory summer program—eight weeks of circular composition theory taught by musicians who experienced time as a single note held forever. She'd returned to Earth disoriented, her internal metronome skipping beats, her mother's Mumbai-quick questions feeling like assault. The next summer, they'd sent her to Mars to stay with Dev, where she learned that silence could be an instrument, that absence had its own notation. She'd written her first real composition there: "Spaces Between Sounds," performed to an audience of seven in a dust-sealed dome.
+That was when her parents—her English father teaching at Mumbai University, her Indian mother running a cross-cultural education nonprofit—first sent her to the Luna Conservatory summer program. Eight weeks of circular composition theory taught by musicians who experienced time as a single note held forever. She'd returned to Earth disoriented, her internal metronome skipping beats, her mother's Mumbai-quick questions feeling like assault. The next summer, they'd sent her to Mars to stay with Dev, where she learned that silence could be an instrument, that absence had its own notation. She'd written her first real composition there: "Spaces Between Sounds," performed to an audience of seven in a dust-sealed dome.
 
 By eighteen, she'd studied at conservatories on three worlds, won competitions on none. Earth judges found her work "too sparse." Mars critics said it "overcrowded the silence." Luna reviewers couldn't understand why her circles had edges. But a small underground of between-world artists had started following her work—other consciousness refugees making art in the gaps.
 
 Her parents had tried to understand. Her mother, Nandini, who'd left Mumbai's chaos for Manchester's different chaos, who'd married her father in defiance of gravity itself. Her father, James, who taught Victorian literature to mining engineers, who'd learned three languages to court her mother, who still couldn't pronounce "consciousness divergence" without making it sound like a disease. They'd given their children names that worked in any accent, any gravity. They'd tried so hard to be citizens of everywhere that they'd ended up citizens of nowhere.
 
-Now Priya stood in the medical center's white room, looking at three pills in her palm. Red for Mars. Gray for Luna. Blue for Earth.
+Now Priya stood in the medical center's white room, looking at three pills in her palm: red for Mars, gray for Luna, and blue for Earth.
 
 "It's not a pill," Dr. Morrison explained again, her voice calibrated to Earth-neutral. "It's a neural stabilizer. Helps your consciousness settle into its natural resonance without interference from—"
 
@@ -24,9 +24,7 @@ The pills felt heavier than their chemistry warranted. Each one contained a cock
 
 "And you? What do you want?"
 
-That was the question. What she wanted changed with her location—Earth-quick desires when she was home, Mars-slow certainties when she visited Dev, Luna-patient perspective when she'd gone to see...
-
-No. Don't think about Magnus yet.
+That was the question that shifted with her location—Earth-quick desires when she was home, Mars-slow certainties when she visited Dev, Luna-patient perspective when she'd gone to see Magnus, though she tried not to think about him yet.
 
 "I dream in red," she said. "Have since I was fifteen. But when I'm awake, I think in Earth patterns. Except when I'm composing—then I think in circles. Luna circles."
 
@@ -52,11 +50,9 @@ Priya pulled out her phone, played her latest composition. Notes that seemed to 
 
 The words hit Priya like a diagnosis. She thought of the headaches she already had—sharp Earth-pain followed by Mars-dull ache, circled by Luna-vertigo. The way conversations felt like tuning three radios at once, never quite finding a clear signal. Her parents' worried looks when she'd stop mid-sentence, lost between ways of finishing the thought.
 
-Priya thought of Dev, how his messages now came wrapped in silence she couldn't parse. Thought of her Earth friends, how their urgency exhausted her. Thought of Magnus—
+Priya thought of Dev, how his messages now came wrapped in silence she couldn't parse. Her Earth friends exhausted her with their urgency, their need for immediate response and resolution.
 
-Yes. Think of Magnus now.
-
-She'd met him at Mei Chen's exhibition. He was visiting from Luna, studying Earth art to understand his wife better. They'd talked for hours about the space between meanings, about music that lived in gaps, about consciousness as composition rather than choice.
+Then there was Magnus—she'd met him at Mei Chen's exhibition. He was visiting from Luna, studying Earth art to understand his wife better. They'd talked for hours about the space between meanings, about music that lived in gaps, about consciousness as composition rather than choice.
 
 He was forty-three. She was nineteen. On Earth, scandal. On Luna, a conversation between equals. On Mars, irrelevant—age was just accumulated absence.
 
@@ -68,9 +64,9 @@ They hadn't touched. Hadn't even exchanged contacts. But she'd felt something sh
 
 Priya left with the pills in her pocket. Three futures rattling against each other.
 
-She opened a mediated call to Dev. The AI interface bloomed—soft blue, patient as gravity.
+She opened a mediated call to Dev, watching the AI interface bloom in soft blue with the patience of gravity itself.
 
-"Mars relay activated. Twenty-three minute baseline delay. Consciousness differential: 71%. Beginning experiential packaging."
+"Mars relay activated with twenty-three minute baseline delay and consciousness differential at 71%, beginning experiential packaging."
 
 The AI would take her Earth-quick thoughts, her urgency and fear, and repackage them for Dev's Mars-consciousness. Not just translating words but creating an entire sensory context he could process in his own timestream.
 
@@ -78,15 +74,15 @@ The AI would take her Earth-quick thoughts, her urgency and fear, and repackage 
 
 "Message packaged. Transmitting."
 
-She made lunch while waiting. The AI had learned her patterns—knew she needed distraction during delay gaps. When Dev's response arrived, it came as a full experience package: his voice, the red-rust view from his habitat window, the particular quality of Mars-silence that wrapped around his words.
+She made lunch while waiting, as the AI had learned her patterns and knew she needed distraction during delay gaps. When Dev's response arrived, it came as a full experience package containing his voice, the red-rust view from his habitat window, and the particular quality of Mars-silence that wrapped around his words.
 
 "You already have chosen." His voice carried Mars-patience, but the AI added context markers—showing her the long pause before he spoke, the way he'd held the ceramic cup she'd sent him, thinking. "You're just afraid to know it."
 
 The AI offered a translation note: *His use of 'afraid' carries different weight on Mars—less judgment, more observation of state.*
 
-She messaged her Earth friends. Their responses came instantly: "Choose Earth!" "Don't leave us!" "Mars is so weird now!" The urgency made her tired.
+She messaged her Earth friends, whose responses arrived instantly in a barrage of urgency that exhausted her: "Choose Earth!" "Don't leave us!" "Mars is so weird now!"
 
-She sat at her keyboard, trying to compose. But the music kept fracturing. Earth harmonies crashing into Mars spaces, Luna circles tangling the rhythm. Between-music. Translation-error music. Hers.
+She sat at her keyboard, trying to compose, but the music kept fracturing—Earth harmonies crashing into Mars spaces while Luna circles tangled the rhythm, creating between-music, translation-error music that was uniquely hers.
 
 On the sixth day, she walked to the spaceport. Not to leave—just to watch. Earth shuttles launching quick and bright. Mars vessels moving with geological patience. Luna ships following perfect arcs.
 
@@ -134,9 +130,7 @@ The music that came was impossible. Earth urgency threading through Mars absence
 
 But it was hers.
 
-She was twenty years old, and she'd chosen not to choose. Chosen to be the space between. The translation error. The frequency that belonged nowhere.
-
-The beautiful failure.
+She was twenty years old, and she'd chosen not to choose. Chosen to be the space between frequencies, the standing wave where three consciousnesses met and interfered with each other. The note that existed only in the dissonance.
 
 Dev would understand, in his Mars way. Her parents would worry, in their Earth way. Magnus might hear it someday and recognize a fellow refugee from single consciousness.
 

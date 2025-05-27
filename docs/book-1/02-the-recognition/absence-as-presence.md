@@ -2,13 +2,13 @@
 
 Mei Chen had been drawing absence since she was seven.
 
-Liu remembered the first time she'd found her daughter's "empty drawings"—sheets of paper with nothing on them, carefully dated and filed in a box under Mei's bed. "These are my Mars memories," Mei had explained with the seriousness only a seven-year-old could muster. "The things I remember by not remembering them." Liu had saved every one, not understanding but recognizing something important in her daughter's strange archiving of nothing.
+Liu remembered the first time she'd found her daughter's "empty drawings"—sheets of paper with nothing on them, carefully dated and filed in a shoebox under Mei's bed. "These are my Mars memories," Mei had explained with the seriousness only a seven-year-old could muster. "The things I remember by not remembering them." Liu had saved every one, not understanding but recognizing something important in her daughter's strange archiving of nothing.
 
 The Beijing art scene hadn't known what to do with her. At fifteen, Mei had applied to the prestigious Central Academy prep program with a portfolio of subtle variations on white. The rejection had been swift and dismissive. At seventeen, she'd mounted guerrilla exhibitions in abandoned spaces—empty frames hung on crumbling walls, attracting small crowds of confused art students and one persistent gallery scout who saw something others missed. Three galleries had turned her down. "Conceptual art needs concept," one curator had explained. "This is just... absence."
 
 But the new diversity initiative at the Beijing Art Museum—specifically seeking artists influenced by off-world experiences—had created an opening. The selection committee hadn't understood Mei's work, but they understood quotas. One Mars-influenced artist: check. That she was ethnically Chinese helped the optics. That her work was incomprehensible could be spun as cutting-edge.
 
-The Chen family gathered at the Beijing Art Museum for Mei's first exhibition. She was nineteen now, had refused university, spent her days creating what she called "presence studies." The museum had given her a small gallery—Gallery 3B, tucked between the ancient ceramics and the contemporary installations, foot traffic guaranteed by geography if not interest.
+The Chen family gathered at the Beijing Art Museum for Mei's first exhibition. She was twenty-eight now, after years of quiet work in their converted garage, creating what she called "presence studies." The Singapore restaurant ran itself these days—Zhang had hired competent managers so they could fly to Beijing for their daughter's moment. The museum had given her a small gallery—Gallery 3B, tucked between the ancient ceramics and the contemporary installations, foot traffic guaranteed by geography if not interest.
 
 Liu arrived early, needing to see it first. Alone. To prepare herself.
 
@@ -18,7 +18,7 @@ The gallery was white. Emptier than white—white with intention. The walls had 
 
 The first piece: a frame holding nothing. But the nothing had... texture? Weight? The wall behind showed through, yet somehow looked different within the frame's bounds. A small placard read: "Home, 2119. Mixed media: space, time, memory of water."
 
-Liu stared. The longer she looked, the more the nothing became something. Not empty—absent. Actively, purposefully absent. Like a removed tooth that the tongue keeps finding.
+Liu stared at the frame, and the longer she looked, the more the nothing transformed into something substantial—not merely empty but actively, purposefully absent, like the space where a removed tooth draws the tongue's constant attention.
 
 "Mom." Mei appeared beside her, moving with that silence she'd perfected. "You came early."
 
@@ -32,13 +32,13 @@ Mei studied her mother's face with those patient eyes—Earth-born but Mars-touc
 
 "Yes." Mei smiled. "Exactly."
 
-The gallery began to fill. Zhang arrived with relatives—his brother's family from Shanghai, cousins from Guangzhou, his elderly mother who'd insisted on coming despite her arthritis. They brought Earth noise with them: cousins chattering about traffic, aunt taking photos of blank walls for WeChat, uncle making jokes about modern art being a money laundering scheme. They moved through the space quickly, looking for something to see, finding only absence.
+The gallery began to fill. Zhang arrived with relatives they'd flown in from Singapore—his brother's family who ran a hawker stall, cousins from the tech sector, his elderly mother who'd insisted on coming despite her arthritis. They brought Earth noise with them: cousins chattering about traffic, aunt taking photos of blank walls for WeChat, uncle making jokes about modern art being a money laundering scheme. They moved through the space quickly, looking for something to see, finding only absence.
 
 Liu watched her husband navigate the family dynamics with practiced ease. Zhang the peacemaker, the explainer, the bridge between Mei's incomprehensible art and family expectations. He'd never understood their daughter's work either, but his pride was unconditional. "My daughter, the artist," he'd say, as if the title itself was accomplishment enough.
 
 "Where are the paintings?" Cousin Wei asked.
 
-"These are the paintings." Mei gestured to a series of canvases. Each one empty except for subtle variations in white. "This one is Dad's laugh. This one is Mom's worry. This one is the sound of Earth rain on Mars windows."
+"These are the paintings," Mei said, gesturing to a series of canvases that appeared empty except for subtle variations in white. "This one captures Dad's laugh, that one holds Mom's worry, and this represents the sound of Earth rain on Mars windows."
 
 Wei squinted. "They're blank."
 
@@ -112,4 +112,4 @@ Liu lifted one sheet, dated from when Mei was seven. Blank paper, but somehow he
 
 They stood together in the gallery's strange white silence, mother and daughter and all the spaces between them. Outside, Beijing churned with Earth-urgency. But here, in Gallery 3B, time moved differently. Absence had weight. Love had shape. And understanding, Liu realized, was just another word for accepting what couldn't be translated.
 
-A presence in the absence. A bridge across nothing. A mother's love translated through empty space.
+She had found presence in the absence, built a bridge across nothing, and discovered that a mother's love could translate even through empty space.

@@ -4,7 +4,7 @@ Ten years was both forever and nothing, depending on which consciousness counted
 
 Sarah had kept a journal for the first three years, documenting their translation failures like a scientist cataloging specimens. The fight about furniture arrangement that wasn't really about furniture but about whether space should flow (Earth) or simply be (Luna). The silent dinners when Magnus would forget that silence meant anger on Earth, not contentment. The night she'd sobbed in the bathroom after he'd described their future in past tense, making her feel like she'd already died.
 
-Year four brought the fertility struggles—Earth doctors baffled by their incompatible biorhythms, Luna specialists suggesting patience Sarah didn't have. She'd wanted a baby with Earth-urgency. He'd experienced their childlessness as a state that would resolve when it resolved. The treatments failed. The marriage counselor quit. Then, inexplicably, pregnancy. Not through science but through what Magnus called "the inevitable accident of proximity"—two consciousnesses colliding often enough that life found a way.
+Year four brought the fertility struggles—Earth doctors baffled by their incompatible biorhythms, Luna specialists suggesting patience Sarah didn't have. She'd wanted a baby with Earth-urgency that felt like walls closing in. He'd experienced their childlessness as a state that would resolve when it resolved, which only made her urgency sharper. The treatments failed. The marriage counselor quit. Then, inexplicably, pregnancy. Not through science but through what Magnus called "the inevitable accident of proximity"—two consciousnesses colliding often enough that life found a way.
 
 Luna's birth had broken something in both of them. Not bad-broken. Broken like light through a prism, revealing frequencies neither parent could see alone. Their daughter spoke her first word at thirteen months: "between." Not mama, not papa. Between. The pediatrician said it was babbling. Sarah and Magnus knew better.
 
@@ -20,7 +20,7 @@ He caught her face between his hands, held her with Luna-patience until the kiss
 
 "Anniversary," he repeated, pulling her back down beside him. "Ten years. Sometimes feels like yesterday, sometimes like a lifetime."
 
-Their daughter Luna appeared in the doorway. Seven years old, born between worlds, speaking neither Earth nor Luna but something new. She watched them with eyes that tracked time differently than either parent.
+Their daughter Luna appeared in the doorway, already seven though Sarah could swear she was just born yesterday while Magnus insisted she'd always been seven, would always be seven in the eternal now of his perception. Born between worlds, speaking neither Earth nor Luna but something new.
 
 The international school had given up trying to classify her. Not a learning disability, not giftedness, not autism—something unmapped. She read books backwards and forwards simultaneously. Drew pictures that only made sense from multiple angles. Had friends who didn't mind that she sometimes spoke in future tense about present events. The other between-consciousness children found her at recess like iron filings to a magnet, forming their own gravity well of incomprehension.
 
