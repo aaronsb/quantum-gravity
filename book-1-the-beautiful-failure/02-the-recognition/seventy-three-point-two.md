@@ -108,16 +108,18 @@ Her phone showed seventeen new messages. Earth spinning fast, demanding attentio
 
 She turned it off.
 
-Sat in silence.
+The apartment settled into the quiet of Earth-evening—distant traffic, a neighbor's music, the hum of machines maintaining human comfort. She walked through rooms that held their shared history: the kitchen where Magnus had taught her to make Swedish kladdkaka, the study where they'd drafted their first joint proposal for Mars greenhouses, the bedroom where morning light still fell exactly as it had on their first day here.
 
-Tried to feel time as architecture instead of river.
+Three months until the wedding. Ninety-two Earth days. 2,208 hours. Her project manager brain couldn't help calculating, breaking time into manageable units. But Magnus experienced those same three months as a single architectural structure, a space he inhabited rather than moved through. 
+
+She sat in silence, trying to feel time his way. Tried to let the moment expand, to stop her thoughts from racing ahead to venue setup and guest lists. The effort made her skin itch with Earth-urgency. How did he do it? How did any of them do it up there, living in geological time while their bodies aged in human years?
 
 Failed.
 
-But in the failing, she found something. A shape. A space. A place where 73.2% might be enough, if she could learn to love across the gap.
+But in the failing, she found something. A shape. A space. A place where 73.2% might be enough, if she could learn to love across the gap. Where the untranslated 26.8% became not loss but possibility—room for mystery in a love that had once felt completely known.
 
 The wedding was in three months.
 
 Or, as Magnus would say, the wedding is. Was. Will be.
 
-All tenses at once, 73.2% translated.
+All tenses at once, 73.2% translated. And maybe, Sarah thought as Luna rose outside her window, that was enough. Maybe love wasn't about perfect understanding but about choosing each other despite the incomprehension. About building a life in the space between Earth-time and Luna-time, in the gap where grace lived.

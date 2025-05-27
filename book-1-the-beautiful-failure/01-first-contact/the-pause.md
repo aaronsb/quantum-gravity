@@ -6,7 +6,7 @@ The kitchen timer buzzed—chicken needed turning. Liu flipped each piece with p
 
 "How was school?" Liu asked, chopping vegetables with Earth-quick efficiency—carrots, onions, peppers in rapid succession. The kitchen smelled like home was supposed to smell. Like the home they'd tried to recreate in a Valles Marineris habitat, where vegetables grew in hydroponic towers and meat was cultured in labs.
 
-Mei stood in the doorway. Thirteen years old, all knees and elbows in her Earth clothes that never fit quite right. Born on Mars but raised on Earth since she was two. Supposed to be readjusting fine, the doctors said. Children adapt. Children forget.
+Mei stood in the doorway. Seven years old, all knees and elbows in her Earth clothes that never fit quite right. Born on Mars but raised on Earth since she was two. Supposed to be readjusting fine, the doctors said. Children adapt. Children forget.
 
 Children remember everything in their bones.
 
