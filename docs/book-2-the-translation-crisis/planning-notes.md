@@ -203,6 +203,9 @@ The book succeeds because it gives us permission to stop pretending we understan
 ## Setup for Book 3
 - Generation ships launched before the crisis
 - New worlds developing beyond current imagination
-- Earth's first contact with truly alien consciousness
-- The ultimate irony: aliens understand Earth better than other human colonies do
-- The question becomes: Is consciousness divergence humanity's unique fate?
+- Earth's first contact with non-human consciousness
+- The ultimate irony: these "aliens" understand Earth better than other human colonies do
+- Mars requires "alien registration" for Earth visitors
+- The Nowhere Generation are treated as stateless aliens
+- The question becomes: Who is truly alien when all consciousness arises from the same universal rules?
+- Perhaps "alien" is the alien concept - the very idea of fundamental otherness
