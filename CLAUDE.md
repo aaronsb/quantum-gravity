@@ -135,7 +135,7 @@ Before writing any story, verify:
 
 ### Continuity Elements to Track
 - **Chen Family**: Zhang (Earth), Liu (Earth), daughter Mei (Mars-drift)
-- **Okafor-Jensen**: Sarah (Earth), Erik (Luna), their relationship decay
+- **Okafor-Jensen**: Sarah (Earth), Magnus (Luna), their relationship decay
 - **Patel Siblings**: Dev and Priya, different consciousness choices
 - **AI Translation**: Starts at 73.2% accuracy, degrades over time
 - **Physical Symptoms**: Headaches, vertigo increase with time
@@ -163,6 +163,38 @@ quantum-gravity/
 └── future-books/
     └── (series planning documents)
 ```
+
+## Literary Analysis Tools
+
+When editing or reviewing stories, use computational tools to ensure quality:
+
+### Created Tools
+- **analyze_sentences.py**: Identifies choppy prose by finding clusters of short sentences (5-7 words)
+  - Flags sections with 3+ short sentences in a row
+  - Helps maintain varied sentence structure
+  - Prevents AI-typical staccato prose
+
+### Available CUPS Tools for Document Editing
+- **mcp__cups-mcp__read_document**: Read documents with line numbers (like cat -n)
+- **mcp__cups-mcp__edit_document**: Edit by exact string replacement with tracking
+- **mcp__cups-mcp__check_document_status**: Check if files have been modified externally
+- These tools are optimized for precise editing of markdown/LaTeX documents
+
+### Future Tool Ideas
+- Metaphor frequency analyzer (catch overuse of "dance," "patterns," "ripples")
+- Character consistency checker (verify names, ages, jobs across stories)
+- Consciousness dialect validator (ensure Earth/Mars/Luna speech patterns stay distinct)
+- Timeline continuity tracker
+- Translation accuracy calculator
+
+Remember: Good prose can be analyzed computationally! Use code to identify patterns that need human judgment to fix.
+
+## Writing Process
+1. Write draft focusing on story and emotion
+2. Run analysis tools to identify mechanical issues
+3. Fix flagged sections while preserving voice
+4. Verify character/timeline consistency
+5. Final read for consciousness dialect accuracy
 
 ## Remember
 The story is human because it's about connection across difference, love despite incomprehension, and family bonds that transcend understanding. When thoughts themselves diverge, what remains? Perhaps only the fact that we still try to reach each other, even when we no longer can.
