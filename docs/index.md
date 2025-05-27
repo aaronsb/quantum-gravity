@@ -10,6 +10,8 @@ The first book in the series follows three families across Earth, Mars, and Luna
 
 These are human stories set against the backdrop of humanity's expansion into the solar system. Stories about love, family, and connection when connection itself becomes uncertain. About what remains when the very nature of understanding begins to drift.
 
+Perhaps consciousness was never as fixed as we believed. Perhaps it was always waiting for new worlds to show us what else it could become.
+
 ## Explore the Series
 
 - **[Book 1 - The Beautiful Failure](book-1-the-beautiful-failure/README.md)**: Follow the first 30 years of humanity's consciousness drift
