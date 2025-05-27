@@ -1,8 +1,15 @@
-_site/
-site/
-.cache/
+# MkDocs build output (except the source index.md)
+docs/*
+!docs/index.md
+
+# Python
 __pycache__/
 *.pyc
+.cache/
+
+# OS
 .DS_Store
+
+# IDE
 .vscode/
 .idea/

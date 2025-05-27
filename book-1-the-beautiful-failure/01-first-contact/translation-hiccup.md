@@ -1,20 +1,20 @@
 # Translation Hiccup
 
-Sarah Okafor had catalogued seventeen ways Erik's messages had changed since he'd moved to Luna.
+Sarah Okafor had catalogued seventeen ways Magnus's messages had changed since he'd moved to Luna.
 
 First: the emoji disappeared. Hearts and smiles that once punctuated every text, gone like atmospheric moisture. Second: his sentences grew patience she couldn't match. Third: the questions stopped—not rudely, but as if questioning had become unnecessary in Luna's eternal present.
 
 She sat in their Amsterdam apartment—her apartment now, though she still paid half-rent on his Luna studio out of principle or denial—scrolling through two years of message history. Watching their love decay in real-time data points.
 
-They'd met at a sustainable architecture conference in Singapore. Erik presenting his thesis on lunar habitats, Sarah showcasing her vertical garden systems. He'd knocked over her coffee reaching for a brochure, spent the next hour helping rebuild her display. She'd fallen for his laugh first—Earth-bright and immediate. They'd moved to Amsterdam together eight months later, found the apartment with its perfect morning light and tiny balcony where her plants could thrive.
+They'd met at a sustainable architecture conference in Singapore. Magnus presenting his thesis on lunar habitats, Sarah showcasing her vertical garden systems. He'd knocked over her coffee reaching for a brochure, spent the next hour helping rebuild her display. She'd fallen for his laugh first—Earth-bright and immediate. They'd moved to Amsterdam together eight months later, found the apartment with its perfect morning light and tiny balcony where her plants could thrive.
 
-The translation overlay had started as a joke. "TransLingua Premium: For Love Across Space!" Targeted ads that knew too much about her search history. Erik had laughed when she'd subscribed. "We don't need that. Love is its own language."
+The translation overlay had started as a joke. "TransLingua Premium: For Love Across Space!" Targeted ads that knew too much about her search history. Magnus had laughed when she'd subscribed. "We don't need that. Love is its own language."
 
 But love, Sarah was learning, spoke different dialects at different gravities.
 
 "Tell me about your day," she said into the screen. Earth evening, Luna morning. Their synchronized schedule after two years of practice, penciled into her calendar like a medical appointment. Necessary. Chronic.
 
-Erik's face pixelated, reformed. The lag was 1.3 seconds each way—speed of light plus processing. She'd learned to wait, to let conversations breathe. But tonight something else delayed his words.
+Magnus's face pixelated, reformed. The lag was 1.3 seconds each way—speed of light plus processing. She'd learned to wait, to let conversations breathe. But tonight something else delayed his words.
 
 "I participated in duration." The translation overlay flickered blue, uncertain. "I mean—I experienced. No. I..." He switched to Mandarin, then back to English. "There's no word."
 
@@ -36,7 +36,7 @@ Sarah's smile faltered. "Are you okay? You sound—"
 
 The translator had cost three hundred euros a month. Worth every penny, the reviews promised, for couples separated by space. But the reviews hadn't mentioned what happened when distance wasn't the problem. When the separation was consciousness itself.
 
-"How was your day?" Erik asked. The three-second round trip made conversations feel like playing catch with a ghost.
+"How was your day?" Magnus asked. The three-second round trip made conversations feel like playing catch with a ghost.
 
 "Good! Finished the Morrison project. You remember, the sustainable housing initiative? They loved the vertical garden concept. Oh, and Jenny says hi. We had lunch at that place you like—liked. The Ethiopian restaurant on Overtoom." She heard herself accelerating, trying to beam her life into his awareness before the connection failed. "Oh, and I found our song on an old playlist—"
 
@@ -70,7 +70,7 @@ Three seconds out. Three seconds back. In the gap, she watched his face process 
 
 "What does that mean?"
 
-"It means—" Erik looked away, toward his apartment's window where Earth hung like a blue ornament. "It means I love you in Earth-time but live in Luna-time, and the translation is failing."
+"It means—" Magnus looked away, toward his apartment's window where Earth hung like a blue ornament. "It means I love you in Earth-time but live in Luna-time, and the translation is failing."
 
 The words hit like decompression. Sarah felt her carefully constructed optimism crack, air rushing out.
 
@@ -78,7 +78,7 @@ The words hit like decompression. Sarah felt her carefully constructed optimism 
 
 Six seconds of silence. Their most expensive conversation yet.
 
-"You said 'love is love.'" Erik's expression was lunar: patient, profound, incomprehensible. "But what if love is time? What if Earth-love is rain and Luna-love is stone? Both real, both valid, but—"
+"You said 'love is love.'" Magnus's expression was lunar: patient, profound, incomprehensible. "But what if love is time? What if Earth-love is rain and Luna-love is stone? Both real, both valid, but—"
 
 "But what? Are you—are you breaking up with me?" The words tumbled out Earth-fast, Earth-messy, Earth-afraid.
 
@@ -90,7 +90,7 @@ Six seconds of silence. Their most expensive conversation yet.
 
 After the call, Sarah sat in their apartment surrounded by wedding magazines and vendor contracts. The translation app helpfully provided a transcript, blue uncertainty markers scattered like bruises through their conversation.
 
-She scrolled to their first calls. No blue. Perfect translation for months. When had it started? When had Erik's words begun resisting Earth-shaped meanings?
+She scrolled to their first calls. No blue. Perfect translation for months. When had it started? When had Magnus's words begun resisting Earth-shaped meanings?
 
 Her phone buzzed. A message from him, sent at Luna-speed, considered and crafted:
 
@@ -114,7 +114,7 @@ Or they'd moved. One way or another.
 
 Sarah closed the laptop. Looked around the apartment they'd chosen together, back when together meant the same thing to both of them. His coffee mug still sat by the sink. His architecture books still lined the shelves. His absence still shaped the space.
 
-Outside, Amsterdam's canals reflected the evening light. Boats passed with Earth-urgency, carrying people to Earth-important places. She'd loved this city with Erik. Now she lived in it alone, even when he was on the screen.
+Outside, Amsterdam's canals reflected the evening light. Boats passed with Earth-urgency, carrying people to Earth-important places. She'd loved this city with Magnus. Now she lived in it alone, even when he was on the screen.
 
 Tomorrow she'd cancel the venue. Or book a Luna ticket. Or both. Or neither.
 
