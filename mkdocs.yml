@@ -34,6 +34,32 @@ theme:
 
 nav:
   - Home: index.md
+  - Book 1 - The Beautiful Failure:
+    - Overview: book-1/index.md
+    - Chapter 01 - First Contact:
+      - book-1/01-first-contact/index.md
+      - Coffee on Luna: book-1/01-first-contact/coffee-on-luna.md
+      - The Pause: book-1/01-first-contact/the-pause.md
+      - Translation Hiccup: book-1/01-first-contact/translation-hiccup.md
+      - What We Don't Say: book-1/01-first-contact/what-we-dont-say.md
+    - Chapter 02 - The Recognition:
+      - book-1/02-the-recognition/index.md
+      - Frequency: book-1/02-the-recognition/frequency.md
+      - The Untranslatable Word: book-1/02-the-recognition/the-untranslatable-word.md
+      - 73.2%: book-1/02-the-recognition/seventy-three-point-two.md
+      - Absence as Presence: book-1/02-the-recognition/absence-as-presence.md
+    - Chapter 03 - The Drift:
+      - book-1/03-the-drift/index.md
+      - The Last Clear Conversation: book-1/03-the-drift/the-last-clear-conversation.md
+    - Chapter 04 - The Translators:
+      - book-1/04-the-translators/index.md
+    - Chapter 05 - The Choice:
+      - book-1/05-the-choice/index.md
+      - Choosing Mars: book-1/05-the-choice/choosing-mars.md
+    - Chapter 06 - The Beautiful Failure:
+      - book-1/06-the-beautiful-failure/index.md
+      - Love Across Gravity: book-1/06-the-beautiful-failure/love-across-gravity.md
+      - The Beautiful Failure: book-1/06-the-beautiful-failure/the-beautiful-failure.md
 
 markdown_extensions:
   - pymdownx.highlight:
