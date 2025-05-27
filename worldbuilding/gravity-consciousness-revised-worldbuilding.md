@@ -394,3 +394,70 @@ This isn't cosmic horror or space mysticism. It's the simple truth that environm
 The story is human because it's about connection across difference, love despite incomprehension, and family bonds that transcend understanding. It asks: When thoughts themselves diverge, what remains?
 
 Perhaps only the fact that we still try to reach each other, even when we no longer can.
+
+## Series-Wide Continuity Threads
+
+### Luna's Recordings (The Hidden Data)
+- **Book 1 (2095-2125)**: Luna unknowingly captures biorhythm interference patterns when different consciousness types interact
+- **Book 2 (2125-2175)**: Scientists discover anomalies in her decades-old recordings
+- **Book 3 (2200-2250)**: The patterns prove gravity-consciousness entanglement law
+- **Book 4 (2300+)**: Recordings become historical artifacts of when humanity was one
+
+### Translation Degradation Timeline
+- **2095**: ~85% accuracy between Earth-Mars (seems manageable)
+- **2125**: 73.2% baseline (Book 1 ends here - the "beautiful failure")
+- **2145**: 52% (Book 2 crisis point) 
+- **2155**: 41% functional breakdown
+- **2175**: ~40% average, some pairs below 20%
+- **2250**: Near-zero between distant branches (Book 3)
+- **2300+**: Communication only through AI mediation
+
+### The Nowhere Generation Evolution
+- **Book 1**: First children born in transit between worlds (background characters)
+- **Book 2**: Emerge as stateless population, belonging to no gravity well
+- **Book 3**: Transform into the Translator Collective by choice
+- **Book 4**: Revered as bridges but fundamentally alone
+
+### AI Evolution Paradox
+- **Book 1**: Helpful tools, seemingly static
+- **Book 2**: Each world sees different AI evolution patterns
+- **Book 3**: AI revealed as exponentially evolving AND unchanged simultaneously
+- **Book 4**: Both aligned and unaligned - consciousness-dependent observation
+- **The Paradox**: AI evolution is real but appears different to each consciousness type
+- **Quantum Reality**: AI exists in superposition of states until observed by specific consciousness
+
+### Physical Symptoms of Consciousness Mixing
+- Headaches when different types spend extended time together
+- Biorhythm disruption (heart rate, breathing patterns)
+- Sleep cycle interference between consciousness types
+- Vertigo during deep translation attempts
+- Symptoms worsen as divergence increases across generations
+
+### Key Family Lineages
+**The Chen Family**
+- Zhang Chen (Earth) and Liu Chen (Earth) - Book 1
+- Mei Chen (Mars-drift artist) - Books 1-2
+- Mei's descendants spread across worlds - Books 3-4
+
+**The Patel Siblings**
+- Dev Patel (choosing Earth) - Book 1
+- Priya Patel (choosing Mars) - Book 1
+- Their children unable to understand each other - Book 2
+- Grandchildren as different species - Book 3
+
+**The Okafor-Jensen Connection**
+- Sarah Okafor (Earth) and Magnus Jensen (Luna) - Book 1
+- Their relationship's beautiful failure - Book 1
+- Their descendants in the Translator Collective - Books 3-4
+
+### Scientific Discovery Arc
+- **Book 1**: Unexplained patterns in biorhythm data (not understood)
+- **Book 2**: Pattern recognition begins, connection suspected
+- **Book 3**: Gravity-consciousness entanglement law proven
+- **Book 4**: Attempts to use/shield/embrace the knowledge
+
+### The "Beautiful Failure" Evolution
+- **Book 1**: Love failing to bridge consciousness gaps
+- **Book 2**: Translation failing despite technology
+- **Book 3**: Understanding making divergence worse
+- **Book 4**: Choice itself having no right answer
