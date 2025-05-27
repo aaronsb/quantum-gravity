@@ -114,7 +114,7 @@ She knew.
 
 Had known since she'd started composing music that no single world could hold. Since she'd felt comfortable nowhere and everywhere. Since she'd realized her frequency wasn't Mars or Earth or Luna but the interference pattern between them.
 
-After they left, Priya sat in the spaceport café. Took out the pills. Red. Gray. Blue.
+After they left, Priya sat in the spaceport café and took out the pills, studying them in her palm. Red. Gray. Blue.
 
 Swallowed all three at once.
 

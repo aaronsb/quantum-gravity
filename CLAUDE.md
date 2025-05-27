@@ -174,6 +174,13 @@ When editing or reviewing stories, use computational tools to ensure quality:
   - Helps maintain varied sentence structure
   - Prevents AI-typical staccato prose
 
+### Prose Rhythm Philosophy
+- **Intentional choppiness is good** - for tension, shock, fragmented thoughts, urgency
+- **Variety is key** - like music, prose needs rhythm changes (the golden ratio, not symmetry)
+- **Match form to function** - Earth consciousness can be choppy/urgent, Luna should flow
+- **Don't mechanistically fix** - evaluate if short sentences serve the moment
+- Reading is cinematic - sometimes we need quick cuts, sometimes lingering shots
+
 ### Available CUPS Tools for Document Editing
 - **mcp__cups-mcp__read_document**: Read documents with line numbers (like cat -n)
 - **mcp__cups-mcp__edit_document**: Edit by exact string replacement with tracking

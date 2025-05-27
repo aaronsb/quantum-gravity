@@ -24,7 +24,7 @@ Another pause. Mei's eyes focused somewhere else—not daydreaming, but attendin
 
 "Loud?" Liu turned from the stove. Her daughter stood perfectly still, a patience that didn't belong in teenage bones.
 
-"Always moving. Always wanting." Mei touched the kitchen window where condensation gathered. "Mars water knew how to wait."
+"Always moving, always wanting something from you." Mei touched the kitchen window where condensation gathered. "Mars water knew how to wait without asking."
 
 Liu felt her smile falter. "You remember Mars water? You were so young."
 
