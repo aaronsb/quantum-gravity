@@ -1,6 +1,9 @@
-# MkDocs build output (except the source index.md)
-docs/*
-!docs/index.md
+# MkDocs build output
+site/
+
+# Keep all markdown source files
+!docs/
+!docs/**/*.md
 
 # Python
 __pycache__/
