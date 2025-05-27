@@ -60,9 +60,11 @@ Which parts? Which words carried meaning and which carried silence?
 
 She typed back: *I don't understand how time can be a gift. Time is what we're running out of.*
 
+Before sending, the AI showed her how Magnus would receive it: her words arriving in his continuous present, without the urgency she felt. It suggested alternatives: *Consider: 'Help me understand how you experience time as a gift.'* But Sarah dismissed the suggestion. She needed him to feel her fear, even if it arrived diluted by distance.
+
 Send.
 
-Three minutes later, her response arrived on Luna. Three minutes after that, Magnus would read it. In those six minutes, she made coffee, answered two work emails, worried about the caterer, wondered if her dress would fit, checked the weather for June.
+The AI tracked her message across space—three light-minutes out, processing time, three minutes back. A little animation showed her words being repackaged for Luna consciousness, her Earth-urgency translated into something Magnus could process without cognitive dissonance. In those six minutes, she made coffee, answered two work emails, worried about the caterer, wondered if her dress would fit, checked the weather for June.
 
 Magnus would read it in the continuous now of Luna. No before-message, no after-message. Just message, existing in the eternal moment of receipt.
 
@@ -70,15 +72,19 @@ Her phone buzzed. Not Magnus—her maid of honor, asking about rehearsal dinner 
 
 She'd tried to explain it to Magnus once, this feeling of time as a predator always at her heels. He'd listened with that Luna-patience that used to charm her, now sometimes felt like judgment. "On Luna," he'd said, "we have a saying: 'Time is not running out. We are running through.'" It had sounded profound then. Now it felt like another untranslatable truth.
 
-Magnus's reply came an hour later: *Running out of implies time is a resource. Here, time is architecture. We don't spend it. We inhabit it. The wedding isn't approaching—we are building toward each other across patient space. Does this translate?*
+Magnus's reply came an hour later, wrapped in AI mediation layers. The interface showed her not just his words but what the AI had captured: his heart rate (slow, steady), his environment (his Luna apartment with Earth hanging in the window), his composition process (seventeen minutes of writing, deleting, rewriting—even Luna-patience struggled with Earth-words).
+
+*Running out of implies time is a resource. Here, time is architecture. We don't spend it. We inhabit it. The wedding isn't approaching—we are building toward each other across patient space. Does this translate?*
+
+The AI added helpful notation: *'Building toward each other' carries architectural meaning on Luna—conscious construction rather than passive approach.*
 
 73.2%
 
 Sarah called him. Video this time. Need to see his face, even delayed.
 
-He answered on the fourth ring. Luna-slow, but he was smiling.
+He answered on the fourth ring, looking tired but happy to see her.
 
-"Hello, love." His words arrived 2.6 seconds late.
+"Sarah! Good timing—I just submitted the Mars commission designs." His words arrived 2.6 seconds late.
 
 "Magnus, I'm scared." The words tumbled out Earth-fast. "The translator says we're stuck at 73.2%. That's barely passing. That's a C+. How can we get married with a C+ understanding of each other?"
 
@@ -86,7 +92,7 @@ He listened. Processed. The delay made her keep talking.
 
 "Maybe we should postpone. Maybe I should come there for longer. Maybe you should—"
 
-"Sarah." Just her name, but it carried Luna-weight. Stopped her spiral. "Do you love me?"
+"Sarah, wait." He held up a hand—a gesture from their Earth days that meant 'let me think.' "Are you asking if we should be worried about a percentage?"
 
 "Of course!"
 
@@ -96,7 +102,7 @@ He listened. Processed. The delay made her keep talking.
 
 The longest pause yet. On Earth, it would mean hesitation. On Luna, it meant consideration.
 
-"Then we love across the difference," he finally said. "With 73.2% understanding and 100% commitment. The gap... the gap is where grace lives."
+"Then we work with what we have," he finally said. "Look, I know it's not ideal. But my parents barely spoke the same language when they met—Dutch and Yoruba. They figured it out. We will too."
 
 After the call, Sarah sat with the number. 73.2%. Not falling anymore, but not rising either. The limit of translation between worlds.
 
@@ -108,7 +114,7 @@ Her phone showed seventeen new messages. Earth spinning fast, demanding attentio
 
 She turned it off.
 
-The apartment settled into the quiet of Earth-evening—distant traffic, a neighbor's music, the hum of machines maintaining human comfort. She walked through rooms that held their shared history: the kitchen where Magnus had taught her to make Swedish kladdkaka, the study where they'd drafted their first joint proposal for Mars greenhouses, the bedroom where morning light still fell exactly as it had on their first day here.
+The apartment settled into the quiet of Earth-evening—distant traffic, a neighbor's music, the hum of machines maintaining human comfort. She walked through rooms that held their shared history: the kitchen where Magnus had taught her to make his grandmother's kladdkaka, always forgetting the timer because he got distracted explaining structural engineering principles. The study where they'd drafted their first joint proposal for Mars greenhouses, him sketching while she handled the budgets. The bedroom where he used to leave his socks everywhere, a habit that drove her crazy then and that she missed desperately now.
 
 Three months until the wedding. Ninety-two Earth days. 2,208 hours. Her project manager brain couldn't help calculating, breaking time into manageable units. But Magnus experienced those same three months as a single architectural structure, a space he inhabited rather than moved through. 
 

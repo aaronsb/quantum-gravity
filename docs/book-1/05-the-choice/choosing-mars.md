@@ -68,11 +68,21 @@ They hadn't touched. Hadn't even exchanged contacts. But she'd felt something sh
 
 Priya left with the pills in her pocket. Three futures rattling against each other.
 
-She called Dev. Twenty-minute delay each way, but she needed her brother's voice.
+She opened a mediated call to Dev. The AI interface bloomed—soft blue, patient as gravity.
 
-"I don't know how to choose," she said to the void.
+"Mars relay activated. Twenty-three minute baseline delay. Consciousness differential: 71%. Beginning experiential packaging."
 
-His answer came while she made lunch: "You already have chosen. You're just afraid to know it."
+The AI would take her Earth-quick thoughts, her urgency and fear, and repackage them for Dev's Mars-consciousness. Not just translating words but creating an entire sensory context he could process in his own timestream.
+
+"I don't know how to choose," she said to the interface. The AI captured not just her words but her pacing, the way she twisted her ring, the Earth-afternoon light through her window.
+
+"Message packaged. Transmitting."
+
+She made lunch while waiting. The AI had learned her patterns—knew she needed distraction during delay gaps. When Dev's response arrived, it came as a full experience package: his voice, the red-rust view from his habitat window, the particular quality of Mars-silence that wrapped around his words.
+
+"You already have chosen." His voice carried Mars-patience, but the AI added context markers—showing her the long pause before he spoke, the way he'd held the ceramic cup she'd sent him, thinking. "You're just afraid to know it."
+
+The AI offered a translation note: *His use of 'afraid' carries different weight on Mars—less judgment, more observation of state.*
 
 She messaged her Earth friends. Their responses came instantly: "Choose Earth!" "Don't leave us!" "Mars is so weird now!" The urgency made her tired.
 
@@ -94,7 +104,7 @@ Sarah looked between them, Earth-instincts reading undercurrents. But she smiled
 
 "Yes." Sarah's smile went sad. "Like everything important."
 
-They talked while waiting for their flight. About music, about choice, about the space between worlds. Sarah's hand never left Erik's, but her eyes held understanding. She knew about loving across gaps. About choosing the space between.
+They talked while waiting for their flight. About music, about choice, about the space between worlds. Sarah's hand never left Magnus's, but her eyes held understanding. She knew about loving across gaps. About choosing the space between.
 
 "What will you choose?" Magnus asked as their flight was called.
 

@@ -8,6 +8,8 @@ The Jordaan neighborhood had welcomed them with its narrow streets and tilting h
 
 Then Luna called with an offer he couldn't refuse: lead structural engineer for the Far Side Observatory. "Six months," he'd promised. "Maybe a year." That was three years ago.
 
+The first year, they'd managed. AI mediators translating not just words but context, packaging Earth-Sarah's daily updates into experiential bundles Magnus could process in Luna-time. The AI would hold her morning excitement about a new project, her lunch frustration with a difficult client, her evening exhaustion, and deliver them as a single coherent narrative to Magnus's continuous consciousness. His responses came wrapped in patience she slowly learned to parse—not indifference, the AI assured her, but deep consideration. The technology made the impossible merely difficult.
+
 Sarah and Magnus sat in their Amsterdam apartment, Earth-time 9 PM, Luna-time irrelevant because he'd been back for three months. The wedding was in two days. Everything was ready except them.
 
 "We need to talk," Sarah said. Earth-words, Earth-quick, Earth-urgent.

@@ -2,7 +2,7 @@
 
 The Patel family dinner happened every Sunday at 6 PM Earth-standard. Even when Dev was on Mars. Especially when Dev was on Mars.
 
-Priya checked the connection quality for the third time. Twenty-minute delay each way to Mariner Valley. She'd written a script to overlay timestamps on everyone's video feeds—her contribution to making the impossible possible. Mom had made samosas, Dev's favorite, as if he could smell them across 225 million kilometers. Dad had opinions about cricket that needed sharing. Dev had... distance.
+Priya checked the connection quality for the third time. Twenty-minute delay each way to Mariner Valley. The family's AI mediator was already active, its interface showing four consciousness streams like rivers that no longer flowed at the same speed. She'd written a script to overlay timestamps on everyone's video feeds—her contribution to making the impossible possible. But the real work happened in the AI layer, where Earth-urgent family love got translated into something Dev's Mars-patience could receive. Mom had made samosas, Dev's favorite, as if he could smell them across 225 million kilometers. Dad had opinions about cricket that needed sharing. Dev had... distance.
 
 Three years since he'd taken the Mangalyaan Industries position. "Mineralogy specialist," he'd said, eyes bright with Earth dreams about Mars futures. Now he studied rocks that had never known rain, mapping the history of a planet that failed to live.
 
@@ -10,11 +10,11 @@ Three years since he'd taken the Mangalyaan Industries position. "Mineralogy spe
 
 Dad nodded from his study, surrounded by the tax documents he brought home even on Sundays. Earth work for Earth clients who needed Earth-speed solutions. Priya waved from her MIT dorm room, where half-finished code sprawled across three monitors—her attempt to solve time delay with algorithms, as if love could be debugged.
 
-Dev's face pixelated into focus from Mars. The habitat behind him was all functional surfaces and recycled air aesthetics. He'd lost weight. Or maybe gravity had lost him.
+Dev's face pixelated into focus from Mars, already mid-response to something they'd said twenty minutes ago. The AI showed his current state in a sidebar—heart rate: 52 bpm, attention: diffuse, consciousness: 67% Mars-integrated. The habitat behind him was all functional surfaces and recycled air aesthetics. He'd lost weight. Or maybe gravity had lost him.
 
 "Looking good, beta," Mom lied cheerfully. The same lie every week. The same hope that repetition would make it true.
 
-They began eating. Four plates, four time zones, one family tradition held together by bandwidth and maternal will.
+They began eating. Four plates, four time zones, one family tradition held together by bandwidth and maternal will. The AI worked constantly, packaging Mom's rapid-fire concerns into patient bundles, stretching Dev's sparse responses into something that felt like participation, adding context notes like *His silence contains affection, not absence.*
 
 "Priya, how's biochemistry?" Dad asked between bites of dal.
 

@@ -12,13 +12,13 @@ Now, Sarah and Magnus's tenth anniversary arrived like everything in their marri
 
 She woke Earth-quick, already thinking of the restaurant reservation, the gift hidden in her closet, the babysitter for Luna who'd need specific instructions about their daughter's peculiar patience. Anniversary meant event. Meant marking time. Meant celebration of duration.
 
-Magnus woke as he always did—fully present, as if sleep was just another room in the house of consciousness. For him, their anniversary wasn't arriving. It simply was. Had been. Would be.
+Magnus woke slowly, his body still adjusting to Earth rhythms even after all these years. For him, their anniversary felt less like an event and more like a continuation—another layer in the structure they'd built together.
 
 "Happy anniversary," Sarah said, kissing him Earth-quick.
 
 He caught her face between his hands, held her with Luna-patience until the kiss became something else. Not Earth-urgent or Luna-eternal but the frequency they'd found between them. The compromise of touch when words had failed.
 
-"Anniversary," he repeated. The word meant something different in his mouth. Not milestone but moment. Not achievement but existence.
+"Anniversary," he repeated, pulling her back down beside him. "Ten years. Sometimes feels like yesterday, sometimes like a lifetime."
 
 Their daughter Luna appeared in the doorway. Seven years old, born between worlds, speaking neither Earth nor Luna but something new. She watched them with eyes that tracked time differently than either parent.
 
@@ -38,7 +38,7 @@ Sarah began Earth-style: "Once upon a time, there was a girl who loved a boy acr
 
 "No time," Luna corrected gently. "Stories don't have time."
 
-Magnus continued Luna-style: "There is a girl who loves a boy. Was. Will be. The distance between them is always the same, always different."
+Magnus continued, his architect's mind building the story like a blueprint: "There is a girl who loves a boy even when they see time differently. The distance between them stays constant, but they find ways to bridge it."
 
 "No distance," Luna said. "Love doesn't have distance."
 
@@ -56,7 +56,7 @@ Later, at breakfast, the translation failures multiplied:
 
 "Pass the—" Sarah gestured at the jam.
 
-"The red patience," Magnus said, handing it over.
+"The strawberry jam," Magnus said, then smiled at his own mental slip. "Sorry—I was thinking about the preservation process. Architect brain."
 
 "Strawberries aren't patient," Luna observed.
 
@@ -72,7 +72,7 @@ She remembered their first anniversary—she'd planned an elaborate surprise par
 
 "I have a gift," she told Magnus while Luna napped.
 
-"Yes," he said. Not agreement—acknowledgment. He experienced her having a gift as a continuous state, not a revelation.
+"Oh?" he said, looking pleased but slightly confused. "I thought we weren't doing gifts this year. Or did I misremember?"
 
 She gave him the watch. Expensive. Engraved. A Earth-symbol of time marked and measured.
 

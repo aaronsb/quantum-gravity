@@ -34,13 +34,13 @@ Sarah's smile faltered. "Are you okay? You sound—"
 
 "I sound Earth-wrong." Not a question. "I know. I hear it too."
 
-The translator had cost three hundred euros a month. Worth every penny, the reviews promised, for couples separated by space. But the reviews hadn't mentioned what happened when distance wasn't the problem. When the separation was consciousness itself.
+The AI mediator had cost three hundred euros a month. TransLingua's premium service, designed for cross-gravity relationships. "More than translation," the ads promised. "Complete experiential packaging." The AI sat between them like an invisible therapist, catching her Earth-urgency and his Luna-patience, trying to repackage each for the other's consciousness. But even AI had limits. Some gaps were too wide for algorithms to bridge.
 
-"How was your day?" Magnus asked. The three-second round trip made conversations feel like playing catch with a ghost.
+"How was your day?" Magnus asked. The AI held the question for 1.3 seconds, analyzing his tone, the way he leaned forward slightly, the Luna-specific pause before 'day.' It added context for Sarah: *He's asking about your experiential flow, not just activities.* But Sarah was already responding in Earth-time, and the AI scrambled to keep up.
 
 "Good! Finished the Morrison project. You remember, the sustainable housing initiative? They loved the vertical garden concept. Oh, and Jenny says hi. We had lunch at that place you like—liked. The Ethiopian restaurant on Overtoom." She heard herself accelerating, trying to beam her life into his awareness before the connection failed. "Oh, and I found our song on an old playlist—"
 
-"Sarah." Just her name, but the translator marked it blue. Uncertain. As if her name meant something different in Luna-speak.
+"Sarah." Just her name, but the AI mediator marked it blue on her screen. *Uncertainty detected. Possible meaning drift.* A small note appeared: *On Luna, names increasingly carry temporal weight—not just who you are but when you are.*
 
 "What?"
 
@@ -66,7 +66,7 @@ Three seconds out. Three seconds back. In the gap, she watched his face process 
 
 "Or 146 days. Or 3,504 hours. Or—" She caught herself babbling, filling space he seemed comfortable leaving empty. "However you want to count it."
 
-"On Luna we count differently." Blue flicker on 'count.' "Time isn't quantity. It's quality. Density. June is..." He paused so long she checked if the connection had frozen. "June is soon-far."
+"On Luna we count differently." Blue flicker on 'count.' "Time feels... thicker here. More substantial. June is..." He paused, searching for words that would translate. "It feels both immediate and distant."
 
 "What does that mean?"
 
@@ -78,11 +78,11 @@ The words hit like decompression. Sarah felt her carefully constructed optimism 
 
 Six seconds of silence. Their most expensive conversation yet.
 
-"You said 'love is love.'" Magnus's expression was lunar: patient, profound, incomprehensible. "But what if love is time? What if Earth-love is rain and Luna-love is stone? Both real, both valid, but—"
+"You said 'love is love.'" Magnus rubbed his eyes—a gesture she recognized from when he was deep in a design problem. "But I'm starting to think love is shaped by where we are. On Earth it moves fast, like rain. Here it's more like... like the foundations I design. Solid, slow to build."
 
 "But what? Are you—are you breaking up with me?" The words tumbled out Earth-fast, Earth-messy, Earth-afraid.
 
-"Breaking?" Blue flicker. "No. Nothing breaks here. Things transform slowly. Become." He pressed his palm to the screen. An old gesture from their early calls. She matched it, pixels apart. "I love you, Sarah. Present tense, all tenses. But I love you from here, and here is..."
+"Breaking?" Blue flicker. "No, no. That's not—" He pressed his palm to the screen. An old gesture from their early calls. She matched it, pixels apart. "I love you, Sarah. God, I love you. But something is happening to how I experience things. The distance isn't just physical anymore."
 
 "Far?"
 
