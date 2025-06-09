@@ -3,8 +3,10 @@
 ## Overview
 - **Timeline**: 2125-2175 (50 years after Book 1)
 - **Locations**: Earth, Mars, Luna, Proxima b, Belt Colonies
-- **Central Crisis**: The 73.2% translation accuracy breaks down to ~40%, creating existential threats
-- **Theme**: When understanding fails, what remains?
+- **Central Crisis**: The 73.2% translation accuracy breaks down to ~18%, creating cascading harm
+- **Theme**: Recognition of mutual incomprehension - when help becomes harm
+- **Structure**: 8 stories in 4 pairs, each showing same events from incompatible perspectives
+- **Core Emotion**: The vertigo of realizing good intentions create damage through no one's fault
 
 ## New Worlds Introduction
 
@@ -22,19 +24,26 @@
 - **Cannot express**: Permanent states, lasting relationships, stability
 - **Introduction**: Through resource negotiation breakdown
 
-## Core Conflicts
+## Story Structure - Translation Decay Curves
 
-### The Interplanetary Council Crisis
-- Translation AI achieving only 40% accuracy between Earth-Proxima
-- Critical resource allocation decisions require 5-world consensus
-- Each world literally cannot understand others' priorities
-- Stakes: Colony survival depends on cooperation they can't achieve
+### Mathematical Progression
+- Stories 1-2: 40% translation accuracy (dangerous misunderstanding)
+- Stories 3-4: 32% translation accuracy (active harm from trying to help)  
+- Stories 5-6: 25% translation accuracy (near-complete incomprehension)
+- Stories 7-8: 18% translation accuracy (alien to each other)
 
-### The Refugee Ships
-- Ships traveling between worlds create consciousness "muddle"
-- Children born in transit develop hybrid consciousness - or none
-- Parents lose ability to understand their own children
-- The "Nowhere Generation" - belonging to no gravity well
+### Resonance Spikes
+- Brief moments where translation jumps to 90%
+- Universal emotions (grief, joy) temporarily align
+- False hope that makes baseline incomprehension more painful
+- Graphs show declining baseline with cruel spikes of clarity
+
+### Narrative Approach
+- NO omniscient narrator or translator character
+- Each story from INSIDE incomprehension
+- Characters believe they're acting correctly
+- Readers see gaps between perspectives
+- Same events, incompatible truths
 
 ### AI Evolution Misunderstanding
 - Earth sees AI showing "growth" and "learning"
